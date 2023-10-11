@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 * Streams most of the time is not the best approach in performance but, it makes the code more readable
 * */
 
-public class example1 {
+public class Example1 {
     public static void main(String[] args) {
         // Streams consist of three main parts
         // Source

@@ -1,8 +1,6 @@
 import java.util.List;
-import java.util.Random;
-import java.util.stream.Stream;
 
-public class example2 {
+public class Example2 {
     public static void main(String[] args) {
         /** reverse each value on the stream **/
 
